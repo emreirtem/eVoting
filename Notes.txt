@@ -1,0 +1,1 @@
+notifiable interface'ini kullanın
